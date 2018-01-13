@@ -1,0 +1,6 @@
+env
+*.csv
+tmp
+__pycache__
+chromedriver
+cookie
